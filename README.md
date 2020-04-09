@@ -17,3 +17,6 @@ Senior Data Scientist
 Credit One
 www.creditonellc.com
  
+ 
+ 
+Source: University of Texas Data Analytics Certificate Program
