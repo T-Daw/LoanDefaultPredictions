@@ -1,11 +1,21 @@
-# Background: Data Scientist for a loan approval company
-# Problem: Too many customers are defaulting on loans
+# Background: 
+I am a data scientist at Credit One, a loan approval company. 
+## Problem: Too many customers are defaulting on loans
 # Goal: Build Model to Identify Customers who Will Default on their Loans
 
 # File Summaries:
 
 ## 1. TaskDescription.md
-Email from Data Scientist as Credit One. Describes problem and task. 
-## 2. Client Kickoff Meeting
-Presentation to client explaining how 
-## 2. Client Kickoff Meeting
+Email from boss at Credit One explaining project. 
+## 2. DataScienceFrameworkReport.pdf
+Presentation to management explaining how data science team will approach this problem. 
+## 3. Outline for EDA.pdf
+Steps to take in Exploratory Data Analysis. 
+## 4. Exploratory Data Analysis.ipynb
+Exploratory Data Analysis. Visuaize data and identify useful variables for model building. 
+## 5. Model Building.ipynb
+Build models to predict which customers will default. 
+## 6. Final Report & Model Metrics.pdf
+Brief summary of model performance, important variables, recommendation for future studies, and all model metrics.
+## 7. Project Reflections.pdf
+My personal thoughts on what I learned from this project and plans on what to learn next. 
