@@ -1,7 +1,7 @@
 # Background: 
 I am a data scientist at Credit One, a loan approval company. 
 ## Problem: Too many customers are defaulting on loans
-# Goal: Build Model to Identify Customers who Will Default on their Loans
+## Goal: Build Model to Identify Customers who Will Default on their Loans
 
 # File Summaries:
 
@@ -12,7 +12,7 @@ Presentation to management explaining how data science team will approach this p
 ## 3. Outline for EDA.pdf
 Steps to take in Exploratory Data Analysis. 
 ## 4. Exploratory Data Analysis.ipynb
-Exploratory Data Analysis. Visuaize data and identify useful variables for model building. 
+Visuaize data and identify useful variables for model building. 
 ## 5. Model Building.ipynb
 Build models to predict which customers will default. 
 ## 6. Final Report & Model Metrics.pdf
