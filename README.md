@@ -1,5 +1,5 @@
 # Background: 
-I am a data scientist at Credit One, a loan approval company. Too many customers are defaulting on loans. I will build a model to ddentify customers who are likely to default on loans. 
+I am a data scientist at Credit One, a loan approval company. Too many customers are defaulting on loans so I will build a model to ddentify customers who are likely to default.
 
 # File Summaries:
 
