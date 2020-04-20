@@ -10,7 +10,7 @@ Presentation to management explaining how data science team will approach this p
 ## 3. Outline for EDA.pdf
 Steps to take in Exploratory Data Analysis. 
 ## 4. Exploratory Data Analysis.ipynb
-Preprocess and visuaize data. Identify useful variables for model building. 
+Preprocess and visualize data. Identify useful variables for model building. 
 ## 5. Model Building.ipynb
 Build models to predict which customers will default. 
 ## 6. Final Report & Model Metrics.pdf
